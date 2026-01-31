@@ -1,6 +1,6 @@
 ## Games Store Management System
 
-This project was developed as part of the *Introduction to Programming and Databases* module at **Loughborough University**, where it achieved a final grade of **95%**.
+This project was developed as part of the Introduction to Programming and Databases module at **Loughborough University**, where it achieved a final grade of **95%**.
 
 The system simulates a real-world games store, allowing a store manager to manage board and video game inventory, handle customer rentals, and book in-store gaming sessions using Python.
 
