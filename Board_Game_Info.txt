@@ -1,0 +1,26 @@
+GameId|Name|NoPlayers|Genre|PurchaseDate
+mon01|Monopoly|2-6|Family|2021-12-01
+lud02|Ludo|2-4|Classic|2021-09-20
+che03|Chess|2|Strategy|2024-08-01
+chk04|Checkers|2|Strategy|2023-03-10
+scr05|Scrabble|2-4|Word|2020-08-30
+clu06|Cluedo|3-6|Mystery|2022-03-25
+cat07|Catan|3-4|Strategy|2023-05-10
+bat08|Battleship|2|Strategy|2023-02-14
+kab09|Kaboom|2-4|Action|2022-05-08
+uno10|UNO|2-8|Card|2023-09-12
+cnd11|Codenames|4-8|Party|2023-04-20
+tic12|Tic Tac Toe|2|Classic|2023-01-15
+dom13|Dominoes|2-4|Classic|2023-07-01
+jga14|Jenga|2-6|Party|2023-06-14
+con15|Connect 4|2|Strategy|2024-02-11
+tra16|Trails|2-4|Adventure|2023-08-03
+dix17|Dixit|3-6|Creative|2022-09-09
+spl18|Splendor|2-4|Strategy|2023-05-22
+azl19|Azul|2-4|Abstract|2024-03-09
+pan20|Pandemic|2-4|Cooperative|2023-07-13
+blk21|Blokus|2-4|Party|2022-12-24
+sry22|Sorry!|2-4|Family|2021-10-02
+opr23|Operation|1-4|Action|2024-01-19
+gue24|Guess Who|2|Family|2022-05-10
+tra25|The Game of Life|2-6|Family|2023-09-18

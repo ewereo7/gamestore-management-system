@@ -1,0 +1,27 @@
+GameId|Name|Platform|Genre|PurchaseDate
+eaf01|EAFC26|PlayStation|Sports|2025-09-01
+nba02|NBA2K26|Xbox|Sports|2025-09-01
+min03|Minecraft|Nintendo Switch|Sandbox|2025-06-01
+for04|Fortnite|PC|Shooter|2025-05-10
+zel05|Zelda|Nintendo Switch|Adventure|2025-08-15
+mar06|Mario Kart|Nintendo Switch|Racing|2025-07-20
+spi07|Spiderman|PlayStation|Action|2025-04-11
+rob08|Roblox|PC|Sandbox|2025-03-01
+roc09|Rocket League|PlayStation|Sports|2025-02-14
+ove10|Overwatch|PC|Shooter|2025-01-10
+gta11|GTA|Xbox|Action|2025-04-01
+nfs12|Need for Speed|PlayStation|Racing|2025-06-22
+hal13|Halo Infinite|Xbox|Shooter|2025-03-29
+gdw14|God of War|PlayStation|Adventure|2025-07-03
+eld15|Elden Ring|PlayStation|RPG|2025-05-14
+f1g16|F1 24|Xbox|Racing|2025-08-19
+sma17|Super Smash Bros|Nintendo Switch|Action|2025-06-23
+spl18|Splatoon 3|Nintendo Switch|Shooter|2025-04-30
+hug19|Hogwarts Legacy|PlayStation|Adventure|2025-05-05
+res20|Resident Evil Village|Xbox|Horror|2025-03-03
+dea21|Dead by Daylight|PC|Horror|2025-01-15
+cyb22|Cyberpunk 2077|PC|RPG|2025-09-12
+ark23|ARK Survival|Xbox|Adventure|2025-04-02
+gng24|Gang Beasts|PlayStation|Party|2025-08-06
+dls25|The Last of Us|PlayStation|Adventure|2025-02-22
+
